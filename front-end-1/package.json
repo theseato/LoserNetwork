@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@polkadot/api": "^6.8.1"
+  }
+}
