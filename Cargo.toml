@@ -1,0 +1,10 @@
+[profile.release]
+panic = "unwind"
+
+# TODO: should add other pallets module in this file 
+[workspace]
+members = [
+    'node',
+    'runtime',
+    'pallets/mint'
+]
